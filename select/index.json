@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "生活の",
+  "base_artist": "Rokudenashi",
+  "createdAt": "2026-03-12T03:42:43.992313Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生活の",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_生活の_ロクデナシ.txt"
+    }
+  ]
+}
